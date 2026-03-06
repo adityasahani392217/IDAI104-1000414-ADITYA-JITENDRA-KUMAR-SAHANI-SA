@@ -1,8 +1,10 @@
 # 🚀 Space Mission Launch Path Explorer
 
-**CRS:** Artificial Intelligence | **Course:** Mathematics for AI-I | **Assessment:** Summative Assessment (60 Marks)
-
----
+**Student Name:** Aditya Jitendra Kumar Sahani  
+**Student ID:** 1000414  
+**Course:** Artificial Intelligence  
+**Focus:** Mathematics for AI-I
+**Assessment Type:** Formative Assessment 2 (FA-2)  
 
 ## 📌 Project Overview
 
@@ -13,10 +15,7 @@ Built as part of **Scenario 1: Rocket Launch Path Visualization**, the app mirro
 ---
 
 ## 🌐 Live Web App
-
-> **🔗 [Click here to open the live Streamlit app](#)**  
-> *(Replace this link with your deployed Streamlit Cloud URL after deployment)*
-
+> **🔗 [[Click here to open the live Streamlit ap](https://idai104-1000414-aditya-jitendra-kumar-sahani-sa.streamlit.app/)](#)**  
 ---
 
 ## 🎯 What Does This App Visualise?
@@ -52,7 +51,7 @@ m(t+1) = m(t) − fuel_burn_rate × Δt
 ## 📁 Repository Structure
 
 ```
-📦 Repository
+📦 IDAI104-1000414-ADITYA-JITENDRA-KUMAR-SAHANI-SA
 ├── app.py                          # Main Streamlit application
 ├── requirements.txt                # Python dependencies
 ├── space_missions_dataset__1_.csv  # Dataset (500 missions)
@@ -65,8 +64,8 @@ m(t+1) = m(t) − fuel_burn_rate × Δt
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/YourUsername/YourRepository.git
-cd YourRepository
+git clone https://github.com/IDAI104-1000414-ADITYA-JITENDRA-KUMAR-SAHANI-SA
+cd IDAI104-1000414-ADITYA-JITENDRA-KUMAR-SAHANI-SA
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -122,5 +121,6 @@ streamlit run app.py
 - [x] Streamlit Cloud Deployment
 
 ---
+
 
 *🌌 Aerospace Data Insights | Mathematics for AI-I Summative Assessment*
