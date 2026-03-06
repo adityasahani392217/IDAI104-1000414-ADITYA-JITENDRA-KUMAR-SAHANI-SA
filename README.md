@@ -4,7 +4,7 @@
 **Student ID:** 1000414  
 **Course:** Artificial Intelligence  
 **Focus:** Mathematics for AI-I
-**Assessment Type:** Formative Assessment 2 (FA-2)  
+**Assessment Type:** Submative Assessment  (SA)  
 
 ## 📌 Project Overview
 
@@ -124,3 +124,4 @@ streamlit run app.py
 
 
 *🌌 Aerospace Data Insights | Mathematics for AI-I Summative Assessment*
+
